@@ -47,16 +47,16 @@ This e-portfolio documents my growth, reflections, and preparedness for the work
 #### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
-As part of the PRP370S portfolio, I was required to participate in a career counselling session to better understand the ICT roles that align with my profile.
+As part of the PRP370S Work Readiness portfolio, I participated in a career counselling activity designed to help students explore and reflect on potential career paths in the ICT field.
 
 > **T – Task**  
-The task involved completing a counselling session or tool that guided me to identify career paths suited to my personality, interests, and strengths.
+My task was to complete an assessment tool that would help me evaluate my personal strengths, interests, and career goals. The goal was to match these with possible ICT roles that suit my profile.
 
 > **A – Action**  
-I engaged with a career tool that helped evaluate my preferences and suggested suitable roles. I also took notes and reflected on how these roles fit into my long-term vision.
+I completed the career assessment by answering questions about my preferences, personality, and working style. After reviewing the results, I reflected on how each suggested role aligned with my academic background and personal interests. I also considered which skills I currently have and which I need to develop further.
 
 > **R – Result**  
-I discovered that I’m a strong fit for technical roles that involve problem-solving and analysis. This has motivated me to focus on learning SQL, systems thinking, and database tools to strengthen my profile.
+The assessment helped me recognize that I am well-suited for roles such as systems analyst, software tester, or data support technician — all of which require analytical thinking, attention to detail, and problem-solving skills. This activity gave me clarity about my direction and helped me focus on improving technical skills like SQL and systems thinking to prepare for future opportunities.
 
 ---
 
@@ -76,10 +76,10 @@ During the work readiness module, I needed to understand my skills and career in
 I completed a self-assessment survey that matched my strengths and interests with ICT roles.
 
 > **A – Action**  
-I answered questions on technical and soft skills, and reviewed the role suggestions given by the tool.
+I carefully responded to the survey questions, reflecting on both the soft and technical skills I’ve developed through my studies. I then analyzed the report and considered how the suggested roles matched my personality, strengths, and future goals.
 
 > **R – Result**  
-The tool confirmed that I’m well-suited for roles like software developer and UI/UX designer, which aligns with my passion for problem-solving and creativity.
+The results revealed that I am more suited for structured, analytical, and support-based roles such as system analyst, technical support specialist, or IT administrator. These roles match my interest in troubleshooting, organizing systems, and helping users — which gave me a clearer understanding of the career direction I want to follow.
 
 ---
 
