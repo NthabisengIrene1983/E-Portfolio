@@ -33,7 +33,8 @@ This e-portfolio documents my growth, reflections, and preparedness for the work
 
 ✅ **ADD YOUR PICTURE HERE:**
 ```markdown
-![Career Counselling Screenshot](./assets/career_counselling.png)#### 🧠 Reflection (STAR Technique)
+![CAREER COUNSELLING](https://github.com/user-attachments/assets/faf12c46-822a-4943-8918-6c5a3b3bee3b)
+#### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
 As part of the PRP370S portfolio, I was required to participate in a career counselling session to better understand the ICT roles that align with my profile.
@@ -74,7 +75,9 @@ I completed the test and reviewed the outcome. My result was “Logician (INTP-T
 
 > **R – Result**  
 The result helped me understand how my personality fits into analytical roles such as system analyst or software tester.
-![CV Screenshot](./assets/cv.png)
+![CV SUBMISSION](https://github.com/user-attachments/assets/c92adca0-4317-4fb1-94ec-baa6d93861ae)
+
+
 #### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
