@@ -1,6 +1,17 @@
 # 📚 E-Portfolio
 
-Welcome to my professional digital portfolio created as part of the Work Readiness Training for the Diploma in ICT at Cape Peninsula University of Technology (CPUT).
+---
+
+## 💬 My Work Readiness Journey
+
+I am a student studying toward a Diploma in Information and Communication Technology at Cape Peninsula University of Technology. As part of my Work Readiness Training, I created this portfolio to reflect on my growth, experiences, and career goals. 
+
+Through the various activities such as personality assessments, CV writing, and skills evaluations, I gained a deeper understanding of my strengths and weaknesses. I learned that I am detail-oriented, analytical, and passionate about solving problems.
+
+What was challenging for me was expressing my skills in a CV and reflecting deeply on my own development. But I am proud of how far I’ve come in understanding my abilities, building confidence, and identifying a clear career direction. I now know what I’m passionate about, and I’m motivated to keep learning and improving.
+
+---
+
 
 > 🗓️ Assessment Duration: 19 – 23 May 2025  
 > 📁 Submitted via GitHub | 🔗 Link submitted on Blackboard  
@@ -27,9 +38,9 @@ This e-portfolio documents my growth, reflections, and preparedness for the work
 
 ---
 
-## 📁 Evidence
+## 📍 Career Counselling
 
-### 📍 Career Counselling
+###  📁 Evidence
 ![CAREER COUNSELLING](https://github.com/user-attachments/assets/8969c776-93dd-4f81-90d7-45b4f53a0def)
 
 
@@ -50,6 +61,8 @@ I discovered that I’m a strong fit for technical roles that involve problem-so
 ---
 
 ### 📍 Skills & Interests
+
+###  📁 Evidence
 
 ![SKILLS AND INTEREST](https://github.com/user-attachments/assets/c84f0554-2a9d-4334-abe5-e218343dc458)
 
@@ -72,6 +85,8 @@ The tool confirmed that I’m well-suited for roles like software developer and 
 
 ### 📍 Personality Assessment
 
+###  📁 Evidence
+
 ![PERSONALITY ASSESSMENT](https://github.com/user-attachments/assets/6a0e8a3f-6288-47ff-8e05-db53eb50ce3c)
 
 
@@ -92,6 +107,8 @@ The result helped me understand how my personality fits into analytical roles su
 ---
 
 ### 📍 CV Creation & Submission
+
+###  📁 Evidence
 
 ![CV SUBMISSION](https://github.com/user-attachments/assets/1b8f3fdd-3243-4b49-80a7-71fc81728cdb)
 ![CREATE CV](https://github.com/user-attachments/assets/7ff70aa0-b524-45ac-81f1-d2fa4fc0d149)
