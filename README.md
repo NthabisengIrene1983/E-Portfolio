@@ -17,23 +17,22 @@ This e-portfolio documents my growth, reflections, and preparedness for the work
 
 ## 🧭 Structure
 
-| Section | Evidence | Reflection (STAR Technique) |
-|--------|----------|------------------------------|
-| Career Counselling | ✅ Provided | ✅ Provided |
-| Skills & Interests | ✅ Provided | ✅ Provided |
-| Personality Assessment | ✅ Provided | ✅ Provided |
-| CV Creation | ✅ Provided | ✅ Provided |
-| CV Submission | ✅ Provided | ✅ Provided |
+| Section               | Evidence     | Reflection (STAR Technique) |
+|-----------------------|--------------|------------------------------|
+| Career Counselling    | ✅ Provided  | ✅ Provided                  |
+| Skills & Interests    | ✅ Provided  | ✅ Provided                  |
+| Personality Assessment| ✅ Provided  | ✅ Provided                  |
+| CV Creation           | ✅ Provided  | ✅ Provided                  |
+| CV Submission         | ✅ Provided  | ✅ Provided                  |
 
 ---
 
 ## 📁 Evidence
 
 ### 📍 Career Counselling
+![CAREER COUNSELLING](https://github.com/user-attachments/assets/8969c776-93dd-4f81-90d7-45b4f53a0def)
 
-✅ **ADD YOUR PICTURE HERE:**
-```markdown
-![CAREER COUNSELLING](https://github.com/user-attachments/assets/faf12c46-822a-4943-8918-6c5a3b3bee3b)
+
 #### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
@@ -47,7 +46,14 @@ I engaged with a career tool that helped evaluate my preferences and suggested s
 
 > **R – Result**  
 I discovered that I’m a strong fit for technical roles that involve problem-solving and analysis. This has motivated me to focus on learning SQL, systems thinking, and database tools to strengthen my profile.
-![Skills & Interests Screenshot](./assets/skills_interests.png)
+
+---
+
+### 📍 Skills & Interests
+
+![SKILLS AND INTEREST](https://github.com/user-attachments/assets/c84f0554-2a9d-4334-abe5-e218343dc458)
+
+
 #### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
@@ -61,7 +67,14 @@ I answered questions on technical and soft skills, and reviewed the role suggest
 
 > **R – Result**  
 The tool confirmed that I’m well-suited for roles like software developer and UI/UX designer, which aligns with my passion for problem-solving and creativity.
-![Personality Screenshot](./assets/personality_assessment.png)
+
+---
+
+### 📍 Personality Assessment
+
+![PERSONALITY ASSESSMENT](https://github.com/user-attachments/assets/6a0e8a3f-6288-47ff-8e05-db53eb50ce3c)
+
+
 #### 🧠 Reflection (STAR Technique)
 
 > **S – Situation**  
@@ -75,7 +88,13 @@ I completed the test and reviewed the outcome. My result was “Logician (INTP-T
 
 > **R – Result**  
 The result helped me understand how my personality fits into analytical roles such as system analyst or software tester.
-![CV SUBMISSION](https://github.com/user-attachments/assets/c92adca0-4317-4fb1-94ec-baa6d93861ae)
+
+---
+
+### 📍 CV Creation & Submission
+
+![CV SUBMISSION](https://github.com/user-attachments/assets/1b8f3fdd-3243-4b49-80a7-71fc81728cdb)
+![CREATE CV](https://github.com/user-attachments/assets/7ff70aa0-b524-45ac-81f1-d2fa4fc0d149)
 
 
 #### 🧠 Reflection (STAR Technique)
@@ -91,9 +110,16 @@ I used a structured template and reviewed successful CV samples to make mine str
 
 > **R – Result**  
 The final CV is clean, well-organized, and ready for job applications and internships.
-🔗 Links
-🌐 CV Google Docs / PDF
 
-🧠 Personality Assessment Tool Used
+---
 
-🎯 Skills Test Link
+## 🔗 Links
+
+- 🌐 [CV Google Docs / PDF](#)
+- 🧠 [Personality Assessment Tool Used](#)
+- 🎯 [Skills Test Link](#)
+
+---
+
+> 💬 *“Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.”* – Abigail Adams
+
