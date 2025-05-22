@@ -127,12 +127,6 @@ I produced a clear, professional CV that effectively represents my qualification
 
 ---
 
-## 🔗 Featured Projects
-
-- [💻 Student Course Management System – GitHub](https://github.com/your-project-link)
-- [📊 ICT Support Dashboard – GitHub](https://github.com/your-other-project-link)
-
----
 
 ## 🎯 Final Reflection & Career Vision
 
