@@ -139,6 +139,20 @@ Business Communication
 
 <img width="1792" height="845" alt="image" src="https://github.com/user-attachments/assets/3fcc49b6-8a29-454e-be5b-9f69ec11e35a" />
 
+### ✍️ Reflection (STAR Method)
+
+Situation:
+Completed an online Business Communication assessment as part of the PRP370-1-2S module.
+
+Task:
+Demonstrate understanding of professional communication, etiquette, and tone through multiple-choice questions.
+
+Action:
+Reviewed course materials, applied communication principles, and carefully answered each question.
+
+Result:
+Achieved 100% in 3 minutes and 23 seconds, showing strong knowledge of effective and professional business communication.
+
 
 
 
