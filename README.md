@@ -127,6 +127,13 @@ I produced a clear, professional CV that effectively represents my qualification
 
 ---
 
+Workplace Etiquette 
+
+### 📁 Evidence  
+
+<img width="1775" height="922" alt="image" src="https://github.com/user-attachments/assets/a69f694b-7e84-491c-acdf-972df11a0e73" />
+
+
 
 ## 🎯 Final Reflection & Career Vision
 
