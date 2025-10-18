@@ -154,6 +154,15 @@ Result:
 Achieved 100% in 3 minutes and 23 seconds, showing strong knowledge of effective and professional business communication.
 
 
+Professional Networking 
+
+### 📁 Evidence  
+
+
+<img width="1817" height="917" alt="image" src="https://github.com/user-attachments/assets/26a0baf6-f691-4732-b39c-7a76b72dc2d2" />
+
+
+
 
 
 
