@@ -1,16 +1,14 @@
 # 📚 E-Portfolio: Nakedi Puleng Veronica
 
----
 
-## 💬 My Work Readiness Journey
+My Work Readiness Journey
 
-This digital portfolio represents my personal and professional growth throughout the PRP370-1-2S – Project Presentation 3 module. It captures the journey I’ve taken to develop the skills and confidence needed to succeed in the workplace. Through each section—business communication, interview skills, mock interviews, professional networking, and workplace etiquette—I’ve learned valuable lessons that have shaped how I see myself as a future professional.
+This digital portfolio represents my personal and professional growth throughout the PRP370-1-2S – Project Presentation 3 module. It captures the journey I’ve taken to develop the skills and confidence needed to succeed in the workplace. Through each section—Business Communication, Interview Skills, Mock Interviews, Professional Networking, and Workplace Etiquette—I’ve learned valuable lessons that have shaped how I see myself as a future professional.
 
 Creating this portfolio has given me the opportunity to reflect on my experiences, identify my strengths, and recognize areas where I can still grow. By using the STAR (Situation, Task, Action, Result) method, I was able to think deeply about what I’ve learned and how I’ve applied it in real or simulated professional situations. This process has helped me understand the importance of effective communication, professionalism, and adaptability in any work environment.
 
 Overall, this portfolio is a reflection of my readiness to enter the professional world with confidence, awareness, and a commitment to continuous improvement.
 
----
 
 > 🗓️ **Assessment Duration:** 19 – 23 May 2025  
 > 📁 **Submitted via:** GitHub | 🔗 Link shared on Blackboard  
@@ -22,12 +20,16 @@ Overall, this portfolio is a reflection of my readiness to enter the professiona
 ## 🧭 Portfolio Structure
 
 | Section                 | 📁 Evidence Provided | ✍️ Reflection (STAR Technique) |
-|-------------------------|----------------------|-------------------------------|
-| Career Counselling      | ✅ Yes                | ✅ Yes                         |
-| Skills & Interests      | ✅ Yes                | ✅ Yes                         |
-| Personality Assessment  | ✅ Yes                | ✅ Yes                         |
-| CV Creation             | ✅ Yes                | ✅ Yes                         |
-| CV Submission           | ✅ Yes                | ✅ Yes                         |
+| ----------------------- | -------------------- | ------------------------------ |
+| Career Counselling      | ✅ Yes                | ✅ Yes                          |
+| Skills & Interests      | ✅ Yes                | ✅ Yes                          |
+| Personality Assessment  | ✅ Yes                | ✅ Yes                          |
+| CV Creation             | ✅ Yes                | ✅ Yes                          |
+| CV Submission           | ✅ Yes                | ✅ Yes                          |
+| Business Communication  | ✅ Yes                | ✅ Yes                          |
+| Professional Networking | ✅ Yes                | ✅ Yes                          |
+| Workplace Etiquette     | ✅ Yes                | ✅ Yes                          |
+
 
 ---
 
@@ -38,17 +40,19 @@ Overall, this portfolio is a reflection of my readiness to enter the professiona
 
 ### ✍️ Reflection (STAR Method)
 
-**S – Situation**  
+✍️ Reflection (STAR Method)
+
+S – Situation
 During our Work Readiness Programme, I participated in career counselling to explore suitable ICT career paths.
 
-**T – Task**  
+T – Task
 Complete a career guidance assessment to align personal interests and strengths with potential ICT roles.
 
-**A – Action**  
+A – Action
 I completed the questionnaire and evaluated the career matches based on my academic background and personality traits.
 
-**R – Result**  
-I gained insight into roles such as **Systems Analyst**, **Software Tester**, and **Data Support Technician** — careers that suit my analytical mindset and problem-solving abilities.
+R – Result
+I gained insight into roles such as Systems Analyst, Software Tester, and Data Support Technician — careers that suit my analytical mindset and problem-solving abilities.
 
 ---
 
@@ -59,17 +63,19 @@ I gained insight into roles such as **Systems Analyst**, **Software Tester**, an
 
 ### ✍️ Reflection (STAR Method)
 
-**S – Situation**  
+✍️ Reflection (STAR Method)
+
+S – Situation
 I wanted to align my academic knowledge with practical roles in the ICT sector.
 
-**T – Task**  
+T – Task
 Assess my skills and career interests using a structured tool.
 
-**A – Action**  
+A – Action
 I responded to an online assessment and compared the suggestions with my own goals and competencies.
 
-**R – Result**  
-It showed I’m suited for roles like **IT Support Specialist** or **IT Administrator**, reaffirming my interest in technical problem-solving and structured environments.
+R – Result
+It showed I’m suited for roles like IT Support Specialist or IT Administrator, reaffirming my interest in technical problem-solving and structured environments.
 
 ---
 
@@ -120,12 +126,17 @@ I produced a clear, professional CV that effectively represents my qualification
 
 ## 📊 Skills Matrix
 
-| Skill                  | Proficiency     | Evidence/Experience                        |
-|------------------------|------------------|--------------------------------------------|
-| SQL                    | Intermediate     | Database coursework + personal projects     |
-| HTML/CSS/JavaScript    | Intermediate     | Web Dev module & class projects            |
-| Problem-Solving        | Strong           | Personality + Skills Assessments           |
-| Communication Skills   | Good             | CV workshops + group presentations         |
+| Section                 | 📁 Evidence Provided | ✍️ Reflection (STAR Technique) |
+| ----------------------- | -------------------- | ------------------------------ |
+| Career Counselling      | ✅ Yes                | ✅ Yes                          |
+| Skills & Interests      | ✅ Yes                | ✅ Yes                          |
+| Personality Assessment  | ✅ Yes                | ✅ Yes                          |
+| CV Creation             | ✅ Yes                | ✅ Yes                          |
+| CV Submission           | ✅ Yes                | ✅ Yes                          |
+| Business Communication  | ✅ Yes                | ✅ Yes                          |
+| Professional Networking | ✅ Yes                | ✅ Yes                          |
+| Workplace Etiquette     | ✅ Yes                | ✅ Yes                          |
+
 
 ---
 
