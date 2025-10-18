@@ -97,8 +97,10 @@ The personality description matched my analytical and independent thinking style
 ## 📍 CV Creation & Submission
 
 ### 📁 Evidence  
-![Create CV](https://github.com/user-attachments/assets/7ff70aa0-b524-45ac-81f1-d2fa4fc0d149)  
-![CV Submission](https://github.com/user-attachments/assets/1b8f3fdd-3243-4b49-80a7-71fc81728cdb)
+<img width="874" height="750" alt="image" src="https://github.com/user-attachments/assets/74ff7a57-d9c3-477a-ac04-4ffd3329762f" />
+
+<img width="853" height="754" alt="image" src="https://github.com/user-attachments/assets/4ac84206-10e4-4b2f-b34a-fae695ef6275" />
+
 
 ### ✍️ Reflection (STAR Method)
 
