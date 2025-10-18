@@ -133,6 +133,14 @@ Workplace Etiquette
 
 <img width="1775" height="922" alt="image" src="https://github.com/user-attachments/assets/a69f694b-7e84-491c-acdf-972df11a0e73" />
 
+Business Communication 
+
+### 📁 Evidence  
+
+<img width="1792" height="845" alt="image" src="https://github.com/user-attachments/assets/3fcc49b6-8a29-454e-be5b-9f69ec11e35a" />
+
+
+
 
 
 ## 🎯 Final Reflection & Career Vision
