@@ -4,11 +4,11 @@
 
 ## 💬 My Work Readiness Journey
 
-I am currently pursuing a **Diploma in Information and Communication Technology** at the **Cape Peninsula University of Technology**. This e-portfolio serves as a comprehensive reflection of my personal and professional development journey throughout the **Work Readiness Training (PRP370S)**.
+This digital portfolio represents my personal and professional growth throughout the PRP370-1-2S – Project Presentation 3 module. It captures the journey I’ve taken to develop the skills and confidence needed to succeed in the workplace. Through each section—business communication, interview skills, mock interviews, professional networking, and workplace etiquette—I’ve learned valuable lessons that have shaped how I see myself as a future professional.
 
-During this journey, I engaged in career readiness activities including **career counselling**, **skills and personality assessments**, **CV creation**, and **structured self-reflection**. These activities have helped me understand my professional strengths, develop career clarity, and enhance my confidence.
+Creating this portfolio has given me the opportunity to reflect on my experiences, identify my strengths, and recognize areas where I can still grow. By using the STAR (Situation, Task, Action, Result) method, I was able to think deeply about what I’ve learned and how I’ve applied it in real or simulated professional situations. This process has helped me understand the importance of effective communication, professionalism, and adaptability in any work environment.
 
-I discovered that I am a **detail-oriented**, **analytical thinker** with a strong passion for using technology to solve real-world problems. Initially, I found it challenging to articulate my skills on paper and conduct in-depth self-reflection. However, I have made significant progress and now have a clearer career vision aligned with my values and aspirations in the ICT sector.
+Overall, this portfolio is a reflection of my readiness to enter the professional world with confidence, awareness, and a commitment to continuous improvement.
 
 ---
 
